@@ -1,5 +1,14 @@
 df_raw_PI_period_2_filtered.csv
-./haru_oni/*
 LC3_modelo_rf.joblib
 LC32 Net Power Equation by scikit learn.ipynb
 LC3_modelo.joblib
+haru oni/Nov 2023 - Feb 2024 data.ipynb
+haru oni/Metodos Prediccion Random forest.ipynb
+haru oni/HaruOni_Nov_23_Feb_24_data.xlsx
+haru oni/Haru_tags_selected_.xlsx
+haru oni/Haru_data_filtered.xlsx
+haru oni/modelos.pkl
+haru oni/Haru Data exploration.ipynb
+haru oni/.ipynb_checkpoints/Haru Data exploration-checkpoint.ipynb
+haru oni/.ipynb_checkpoints/Metodos Prediccion Random forest-checkpoint.ipynb
+haru oni/.ipynb_checkpoints/Nov 2023 - Feb 2024 data-checkpoint.ipynb
